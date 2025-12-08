@@ -1,3 +1,5 @@
+import copy
+
 ######################### PART 1 #########################
 # # input_file  = open('inputs/day5-sample.txt', 'r')
 # input_file  = open('inputs/day5-full.txt', 'r')
@@ -33,7 +35,6 @@
 #     if check_if_in_ranges(fresh_ingredients_ranges, ingredient):
 #         total_fresh_ingredients_ranges += 1
 # print(f"Total fresh ingredients: {total_fresh_ingredients_ranges}")
-import copy
 
 ######################### PART 2 #########################
 
